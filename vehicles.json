@@ -1,0 +1,30 @@
+[
+    {
+        "type": "ElectricCar",
+        "model": "Tesla Model 3",
+        "engine": {
+            "engine_type": "Electric",
+            "power": 200
+        },
+        "transmission": {
+            "transmission_type": "Automatic",
+            "gears": 1
+        },
+        "wheels": [
+            {
+                "size": 19
+            },
+            {
+                "size": 19
+            },
+            {
+                "size": 19
+            },
+            {
+                "size": 19
+            }
+        ],
+        "seats": 5,
+        "battery_capacity": 75
+    }
+]

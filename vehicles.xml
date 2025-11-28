@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Vehicles><ElectricCar><model>Tesla Model 3</model><engine><type>Electric</type><power>200</power></engine><transmission><type>Automatic</type><gears>1</gears></transmission><wheels><wheel>19</wheel><wheel>19</wheel><wheel>19</wheel><wheel>19</wheel></wheels><seats>5</seats><battery_capacity>75</battery_capacity></ElectricCar></Vehicles>
